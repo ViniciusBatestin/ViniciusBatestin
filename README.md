@@ -8,7 +8,7 @@ $\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
 
 - 🌱 I’m currently reading: **Practical Object-Oriented Design: An Agile Primer Using Ruby**
 
-- 🦾 I'm currently living and breathing the legendary CS50x course by Harvard
+- 🦾 I'm currently living and breathing the legendary **CS50x course by Harvard**
 
 - ⚡ Fun fact **I was a professional soccer player, believe it or not XD**
 
