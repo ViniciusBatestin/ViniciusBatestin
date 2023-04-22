@@ -2,17 +2,7 @@
 
 $\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
 
-<p align="left">I'm a friendly Junior Full-Stack Developer from Brazil, currently living it up in sunny Spain since 2013. I just graduated from Le Wagon bootcamp, where I got my ninja-level skills in full-stack development. My mission is to create kickass applications that make real-life problems disappear like magic. Whether it's front-end artistry or back-end wizardry, I'm always on the lookout for the latest and greatest tech to make my solutions as sleek and sexy as possible.</p>
-
-- 🔭 I’m about to start **Mediterranean Youth Hostel Webpage**
-
-- 🌱 I’m currently reading: **Practical Object-Oriented Design: An Agile Primer Using Ruby**
-
-- 🦾 I'm currently living and breathing the legendary **CS50x course by Harvard**
-
-- ⚡ Fun fact **I was a professional soccer player, believe it or not XD**
-
-# 💫About Me :
+# $\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
 🔭 I’m about to start Mediterranean Youth Hostel Webpage
 
 🌱 I’m currently reading: Practical Object-Oriented Design: An Agile Primer Using Ruby
