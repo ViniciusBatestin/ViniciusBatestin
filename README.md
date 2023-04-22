@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Vinny</h1>
 
-$\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
+ $\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
 
-# $\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
+<p align="left">I'm a friendly Junior Full-Stack Developer from Brazil, currently living it up in sunny Spain since 2013. I just graduated from Le Wagon bootcamp, where I got my ninja-level skills in full-stack development. My mission is to create kickass applications that make real-life problems disappear like magic. Whether it's front-end artistry or back-end wizardry, I'm always on the lookout for the latest and greatest tech to make my solutions as sleek and sexy as possible.</p>
+
 🔭 I’m about to start Mediterranean Youth Hostel Webpage
 
 🌱 I’m currently reading: Practical Object-Oriented Design: An Agile Primer Using Ruby
@@ -19,5 +20,4 @@ $\fbox{Full-Stack \ Web \ Developer \ Craftsman}$
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBatestin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ViniciusBatestin&icon=0&color=0)](https://visitcount.itsvg.in)
 
