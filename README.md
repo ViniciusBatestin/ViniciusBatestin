@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on DataVis, a project focused on visualizing a variety of datasets to enhance data representation and insights. 
 
-🦾 I recently completed a [Game Project](https://github.com/ViniciusBatestin/GameProject/settings/pages) where I designed a character that navigates through the screen, collecting treasures and jumping over cliffs.
+🦾 I recently completed a [game project](https://github.com/ViniciusBatestin/GameProject/settings/pages) where I designed a character that navigates through the screen, collecting treasures and jumping over cliffs.
 
 ⚡ I'm looking to collaborate on Golang and React projects, particularly those that have the potential to positively impact society.
 
