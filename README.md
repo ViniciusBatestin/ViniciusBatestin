@@ -2,7 +2,7 @@
 
 <p align="left">I am a Computer Science student at the University of London (Goldsmiths), with a strong interest in Golang and React projects, as well as artificial intelligence and machine learning.</p>
 
-🔭 I’m currently working on DataVis, a project focused on visualizing a variety of datasets to enhance data representation and insights. 
+🔭 I’m currently working on DataVis, a project focused on visualizing a variety of datasets to enhance data representation. 
 
 🦾 I recently completed a [game project](https://github.com/ViniciusBatestin/GameProject/settings/pages) where I designed a character that navigates through the screen, collecting treasures and jumping over cliffs.
 
