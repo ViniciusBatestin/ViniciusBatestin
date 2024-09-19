@@ -2,7 +2,7 @@
 
 <p align="left">I am a Computer Science student at the University of London (Goldsmiths), with a strong interest in Golang and React projects, as well as artificial intelligence and machine learning.</p>
 
-🔭 I’m currently working on [React Learning](https://github.com/ViniciusBatestin/React-Basics). 
+🔭 I’m currently learning [React](https://github.com/ViniciusBatestin/React-Basics) and working on related projects.
 
 🦾 I recently completed a [DataVis](https://github.com/ViniciusBatestin/DataVis), a project focused on visualizing a variety of datasets to enhance data representation.
 
