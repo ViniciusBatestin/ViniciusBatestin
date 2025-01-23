@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Vinny</h1>
 
-<p align="left">I am a Computer Science student at the University of London (Goldsmiths), with a strong interest in Golang and React projects, as well as artificial intelligence and machine learning.</p>
+<p align="left">I am a Computer Science student at the University of London (Goldsmiths), with a strong interest in Python and React projects, as well as artificial intelligence and machine learning.</p>
 
 🫶 I’m currently working on three pro bono projects, building their first websites: a recycled vintage clothing company called **Get In Line**, an art and music community called **Re-clubbing**, and an independent artist named **Misha1Dem**.
 
-🦾 I recently completed: [Little Lemon Restaurant](https://viniciusbatestin.github.io/little-lemon-project/), a capstone challenge from Meta. This task involved designing a fictional restaurant and developing a table booking process.
+🦾 I recently completed: [Little Lemon Restaurant](https://viniciusbatestin.github.io/little-lemon-project/), a **React capstone challenge from Meta**. This task involved designing a fictional restaurant and developing a table booking process.
 
 ⚡ I'm looking to collaborate on Golang and React projects, particularly those that have the potential to positively impact society.
 
