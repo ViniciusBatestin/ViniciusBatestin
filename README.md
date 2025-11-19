@@ -4,7 +4,7 @@
 
 🫶 I’m currently working on three pro bono projects.
 
-🦾 To deliver on the 28/11/2025: [https://www.getinlinebrand.com/), a recycled vintage clothing company called **Get In Line**.
+🦾 To deliver on the 28/11/2025: https://www.getinlinebrand.com, a recycled vintage clothing company called **Get In Line**.
 
 ⚡ I'm looking to collaborate on Python, React, projects, particularly those that have the potential to positively impact society.
 
