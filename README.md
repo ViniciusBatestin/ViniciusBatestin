@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Vinny</h1>
+<h1 align="left">Hi 👋, I'm Vini</h1>
 
 <p align="left">I am a Computer Science student at the University of London (Goldsmiths / Remote), with a strong interest in Python and React projects, as well as artificial intelligence and machine learning.</p>
 
