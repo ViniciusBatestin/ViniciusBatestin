@@ -1,12 +1,24 @@
-<h1 align="left">Hi 👋, I'm Vini</h1>
+# Hi, I'm Vini
 
-<p align="left">I am a Computer Science student at the University of London (Goldsmiths / Remote), with a strong interest in Python and React projects, as well as artificial intelligence and machine learning.</p>
+Junior full-stack developer in Berlin, working with **React / Next.js** and **Python / Django**.
 
-🫶 I’m currently working on three pro bono projects.
+I build web applications for small businesses and independent creatives. I start from what the owner actually needs to get done, then build the simplest thing that does it reliably — and make sure they can run it without me.
 
-🦾 To deliver on the 28/11/2025: https://www.getinlinebrand.com, a recycled vintage clothing company eCommerce called **Get In Line**.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-⚡ I'm looking to collaborate on Python, React, projects, particularly those that have the potential to positively impact society.
+## Recent work
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Get In Line Brand** — e-commerce platform for an independent fashion label in Barcelona (2025–2026). Django REST API on MySQL, React front end, Stripe Connect payments, and an admin dashboard so the owner manages products and orders herself. Deployed with Docker on a VPS. *Code is private; happy to walk through it.*
+- **[viniciusb.com](https://viniciusb.com)** — my portfolio site, built with Next.js and Tailwind CSS, deployed on Vercel.
+
+## About this profile
+
+Most repositories here are coursework and practice from Le Wagon, Meta's Back-End Developer certificate and my University of London studies. They show how I've learned, not finished products.
+
+## Before code
+
+Ten years in hospitality in Barcelona, most recently as a hostel manager, where I led the move to a new booking system. That's where I learned to look at software from the user's side.
+
+## Contact
+
+[contact@viniciusb.com](mailto:contact@viniciusb.com) · [LinkedIn](https://www.linkedin.com/in/viniciusbatestin/) · Portuguese, Spanish, English
